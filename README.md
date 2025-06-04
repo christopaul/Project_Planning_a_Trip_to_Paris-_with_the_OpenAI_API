@@ -1,0 +1,1 @@
+# Project_Planning_a_Trip_to_Paris-_with_the_OpenAI_API
